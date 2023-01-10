@@ -1,4 +1,5 @@
 # abbas2001dossa-EcommerceProject_EtVoila
+# HTML CSS JS JSP SERVLET MYSQL
 
 This an ecommerce based website. Devrloped on technologies 
 
